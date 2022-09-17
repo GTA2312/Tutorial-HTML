@@ -1,0 +1,87 @@
+nav {
+	width: 98%;
+	border-radius: 1em;
+	margin: 0.5em;
+	background: #760F21;
+}
+3127711853
+8500
+nav a {
+	text-decoration: 0;
+	color: white;
+	font-size: 15px;
+}
+
+nav li {
+	display:inline-block;
+	float: left;
+	width: 10%;
+	background-color: #760F21;
+	border: 1px solid black;
+	text-align: center;
+	color: #fff;
+}
+
+
+body {
+	width: 100%;
+	height: 1000px;
+	margin: 0.5em auto;
+	padding: 0.5em;
+	background-color: #D42849;
+	color: white;
+	font-size: 14px;
+}
+
+header {
+	width: 98%;
+	margin: 1em;
+	border-radius: 1em;
+	box-shadow: 0px 0px 25px darkred;
+}
+
+#contenido {
+	width: 98%;
+	height: 50%;
+	margin: 1em;
+}
+
+footer {
+	height: 15%;
+	width: 98%;
+	background: #760F21;
+	border-radius: 1em;
+	margin: 1em;
+	box-shadow: 0px 0px 25px darkred;
+}
+
+section {
+	height: 100%;
+	width: 71%;
+	background-color: #760F21;
+	border-radius: 1em;
+	margin-left: 0.5em;
+	float: left;
+	box-shadow: 0px 0px 25px darkred;
+}
+
+aside {
+	height: 85%;
+	width: 25%;
+	background-color: #760F21;
+	border-radius: 1em;
+	margin-right: 0.5em;
+	float: right;
+	box-shadow: 0px 0px 25px darkred;
+}
+
+article {
+	height: 20%;
+	width: 90;
+	background: #424242;
+	margin: 1em;
+	border-radius: 1em;
+}
+input submit {
+	background-color: #D42849;
+}

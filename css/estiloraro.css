@@ -1,0 +1,61 @@
+nav {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-size: 0;
+}
+
+nav a {
+	text-decoration: 0;
+	color: inherit;
+	font-size: 14px;
+}
+
+nav li {
+	float: left;
+	width: 10%;
+	padding: 5px 10px;
+	background-color: #760F21;
+	border: 1px solid #760F21;
+	text-align: center;
+	color: #fff;
+}
+
+body{
+	background-color: #D42849;
+	color: white;
+	font-size: 14px;
+}
+
+input submit {
+	background-color: #D42849;
+}
+
+section{
+	height: 100%;
+	width: 71%;
+	background: #A4A4A4;
+	border-radius: 1em;
+	margin-right: 0.5em;
+	float: right;
+}
+
+aside {
+	width: 20%;
+	background-color: #760F21;
+}
+
+div {
+	background-color: white;
+	width: 700px;
+	height: 100px;
+	box-shadow: 0px 0px 25px red;
+}
+.bloque-derecha {
+	float: right;
+	margin-top: -40px;
+	width: 290px;
+}
+footer{
+	box-shadow: 0px 0px 25px darkred;
+}
